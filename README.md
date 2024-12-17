@@ -1,4 +1,4 @@
-# Guess the Followers Game
+# Higher Lower Game
 
 This is a fun game where the player has to guess which account has more followers based on two randomly selected accounts. The game will display the names, descriptions, and countries of the accounts, and the player has to guess which one has more followers. The score is updated after each round, and the game continues until the player makes an incorrect guess.
 
